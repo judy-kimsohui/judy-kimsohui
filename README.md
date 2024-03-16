@@ -1,4 +1,7 @@
 ### Hi there 👋
+Hello, my name is Sohui Kim, and I majored in Biomedical Engineering and Software at Chung-Ang University. I dream of becoming a developer and am currently enhancing my technical skills through consistent development activities. Please look forward to my future growth.
+
+I have experienced the following technologies:
 
 <!--
 **sodaakim/sodaakim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
