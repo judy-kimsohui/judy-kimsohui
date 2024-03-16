@@ -2,7 +2,7 @@
 Hello, my name is Sohui Kim, and I majored in Biomedical Engineering and Software at Chung-Ang University.
 I dream of becoming a developer and am currently enhancing my technical skills through consistent development activities. Please look forward to my future growth!
 
-# I have experienced the following technologies and tools
+#### I have experienced the following technologies and tools
 
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
