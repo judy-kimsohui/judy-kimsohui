@@ -5,7 +5,7 @@ I dream of becoming a developer and am currently enhancing my technical skills t
 
 Please look forward to my future growth!
 
-<img src="https://github.com/sodaakim/sodaakim/blob/output/mysnake.svg" width="100%">
+<img src="https://github.com/junia3/junia3/blob/output/mysnake.svg" width="100%">
 
 <!--   
 #### I have experienced the following technologies and tools
