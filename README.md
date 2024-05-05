@@ -5,9 +5,10 @@ I dream of becoming a developer and am currently enhancing my technical skills t
 
 Please look forward to my future growth!
 
+<!--   
 <img src="https://github.com/junia3/junia3/blob/output/mysnake.svg" width="100%">
 
-<!--   
+
 #### I have experienced the following technologies and tools
 
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
