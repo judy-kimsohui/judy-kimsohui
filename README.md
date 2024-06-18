@@ -1,7 +1,7 @@
 ### Hi Bunnies 🩵
 Hello, I'm Sohui Kim, Live in Seoul, Korea.
 
-I majored in Biomedical Engineering and Software at Chung-Ang University (Seoul, Korea).
+I majored in Biomedical Engineering and Software at Chung-Ang University.
 
 I dream of becoming a developer and am currently enhancing my technical skills through consistent development activities.
 
