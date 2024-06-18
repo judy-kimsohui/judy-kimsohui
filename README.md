@@ -1,9 +1,17 @@
-### Hi there 👋
-Hello, my name is Sohui Kim, and I majored in Biomedical Engineering and Software at Chung-Ang University (Seoul, Korea).
+### Hi Bunnies 🩵
+Hello, I'm Sohui Kim, Live in Seoul, Korea.
+
+I majored in Biomedical Engineering and Software at Chung-Ang University (Seoul, Korea).
 
 I dream of becoming a developer and am currently enhancing my technical skills through consistent development activities.
 
 Please look forward to my future growth!
+
+
+
+
+
+
 
 <!--   
 <img src="https://github.com/junia3/junia3/blob/output/mysnake.svg" width="100%">
