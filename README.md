@@ -8,7 +8,7 @@ Please look forward to my future growth!
 #### 📘 Education
 2017~2019 [경북과학고등학교 kyeongbuk science high school 25th](https://school.gyo6.net/kbs-english/main.do?sysId=kbs-english) 
 
-2020~2024 [중앙대학교 Chung-Ang University](https://neweng.cau.ac.kr/index.do) [IE](https://ie.cau.ac.kr/_eng/), [Software](https://cse.cau.ac.kr/eng/main.php) 
+2020~2024 [중앙대학교 Chung-Ang University](https://neweng.cau.ac.kr/index.do) Double majored in [IE](https://ie.cau.ac.kr/_eng/), [Software](https://cse.cau.ac.kr/eng/main.php) 
 
 
 <!--   
