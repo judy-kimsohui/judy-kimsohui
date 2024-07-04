@@ -3,7 +3,7 @@ Hello, I'm Sohui Kim. I dream of becoming a developer and am currently enhancing
 
 #### 🥕 I interested in
 
-Web & Game development
+**Web** & Game development
 
 #### 🥬 Skills
 
