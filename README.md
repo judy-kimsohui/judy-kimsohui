@@ -67,8 +67,8 @@
   <!--
   <p>본 프로젝트는 신약 개발의 효율성을 높이고, 약물의 안전성과 유효성을 극대화하기 위한 목적으로 진행되었습니다.<br>약물의 흡수(Absorption), 분포(Distribution), 대사(Metabolism), 배설(Excretion), 그리고 독성(Toxicity) 특성(ADMET)을 예측하고 분석하고,<br>데이터 시각화 도구를 통해 결과를 직관적으로 파악할 수 있도록 지원합니다.</p>-->
 
-  <img width="38%" alt="front1" src="https://github.com/judy-kimsohui/judy-kimsohui/assets/83997634/5e67c7f4-45c9-4ae8-a9cb-4f3fea00ca72">
-  <img width="38%" alt="front2" src="https://github.com/judy-kimsohui/judy-kimsohui/assets/83997634/cd281f81-9a7c-456e-9088-6632d2171b2c">
+  <img width="42%" alt="front1" src="https://github.com/judy-kimsohui/judy-kimsohui/assets/83997634/5e67c7f4-45c9-4ae8-a9cb-4f3fea00ca72">
+  <img width="42%" alt="front2" src="https://github.com/judy-kimsohui/judy-kimsohui/assets/83997634/cd281f81-9a7c-456e-9088-6632d2171b2c">
   
   [Dokyun Lab 중앙대학교 생물정보학 연구실](http://ssbio.cau.ac.kr/web/)
   <p><strong>학부연구생 김소희 | BE, FE</strong></p>
