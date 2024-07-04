@@ -16,6 +16,13 @@ Web & Game development
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><!--javascript--> 
 <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/><!--typescript--> 
 
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/><!--MySQL--> 
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/><!--Postgres--> 
+
+<img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/><!--Unreal--> 
+<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/><!--Unity--> 
+
+
 #### 📘 Education
 2017.03~2020.01 [경북과학고등학교 Gyeongbuk Science High School 25th](https://school.gyo6.net/kbs-english/main.do?sysId=kbs-english) (Pohang, Korea)
 
