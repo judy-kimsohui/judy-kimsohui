@@ -51,5 +51,3 @@ I dream of becoming a developer and am currently enhancing my technical skills t
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8EC5FC,50:E0C3FC,100:8EC5FC&height=40&section=footer&text=&fontSize=0" width="100%"/>
-
-이거 마크다운인데 조금 더 예쁘게 정렬하고 꾸밀 수 있어? 35% 60%는 그대로 유지해줘
