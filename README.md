@@ -31,8 +31,7 @@ Web & Game development
 <!--https://edu.rapa.or.kr/recruitment/480-->
 
 
-<!--   
-#### 📘 Education
+<!--    #### 📘 Education
 <img src="https://github.com/junia3/junia3/blob/output/mysnake.svg" width="100%">
 <img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white"/><!--Express--> 
 
