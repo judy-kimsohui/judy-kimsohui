@@ -29,6 +29,13 @@
 
 </details>
 <br>
+<div align="center">
+  <a href="https://judy-kimsohui.github.io/Blog/">
+    <img src="https://img.shields.io/badge/Welcome%20to%20Judy's%20Blog-blue?style=for-the-badge" alt="🩵 Welcome to Judy's Blog"/>
+  </a>
+</div>
+
+<br>
 <h4>💙 Skills</h4>
 <div>
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
