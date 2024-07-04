@@ -6,9 +6,6 @@ I dream of becoming a developer and am currently enhancing my technical skills t
 
 Please look forward to my future growth!
 
-<details>
-<summary><strong>About Me</strong></summary>
-<p>
 <h4>🧸 I am interested in</h4>
 <strong>Web</strong> & Game Development
 <br>
@@ -30,6 +27,9 @@ Please look forward to my future growth!
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
 </div>
 
+<details>
+<summary><strong>About Me</strong></summary>
+<p>
 
 <h4>📘 Education</h4>
 
