@@ -7,9 +7,7 @@ I dream of becoming a developer and am currently enhancing my technical skills t
 <br>
 <details>
 <summary>About Me</summary>
-<p> 어어호호오</p>
-</details>
-
+<p>
 #### 🧸 I am interested in
 **Web** & **Game Development**
 <br>
@@ -39,6 +37,12 @@ I dream of becoming a developer and am currently enhancing my technical skills t
 
 **2024.04~2024.10** [Kakao Cloud School in JEJU 5th](https://rapa-kakaocloudschool-apply.goorm.io/) (Jeju Island, Korea)
 <br>
+
+    
+</p>
+</details>
+
+
 
 <div style="display: flex; justify-content: space-between;">
 <a href="https://github.com/anuraghazra/github-readme-stats">
