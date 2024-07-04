@@ -31,7 +31,7 @@
 <br>
 <div>
   <a href="https://judy-kimsohui.github.io/Blog/">
-    <img src="https://img.shields.io/badge/🩵%20Welcome%20to%20Judy's%20Blog-blue?style=for-the-badge" alt="🩵 Welcome to Judy's Blog"/>
+    <img src="https://img.shields.io/badge/🩵%20Welcome%20to%20Judy's%20Blog-E0C3FC?style=for-the-badge" alt="🩵 Welcome to Judy's Blog"/>
   </a>
 </div>
 
