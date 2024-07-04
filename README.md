@@ -58,13 +58,14 @@
 <br>
 <h4>🥬 Best Projects</h4>
 <div style="display: flex; flex-direction: column;">
-  <h4>Web Platform for ADMET Property Analysis Models <h5>(ADMET 프로퍼티 분석 모델 웹 플랫폼)</h5></h4>
+  <h4>Web Platform for ADMET Property Analysis Models</h4>
   <div>
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
     <img src="https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/>
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   </div>
+  <h5>(ADMET 프로퍼티 분석 모델 웹 플랫폼)</h5>
   <img width="38%" alt="front1" src="https://github.com/judy-kimsohui/judy-kimsohui/assets/83997634/5e67c7f4-45c9-4ae8-a9cb-4f3fea00ca72">
   <img width="38%" alt="front2" src="https://github.com/judy-kimsohui/judy-kimsohui/assets/83997634/cd281f81-9a7c-456e-9088-6632d2171b2c">
 </div>
