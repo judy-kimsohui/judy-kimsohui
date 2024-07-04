@@ -57,6 +57,10 @@
 </div>
 <br>
 <h4>🥬 Best Projects</h4>
+<div style="display: flex; justify-content: space-between;">
+  <img width="1512" alt="front1" src="https://github.com/judy-kimsohui/judy-kimsohui/assets/83997634/5e67c7f4-45c9-4ae8-a9cb-4f3fea00ca72">
+  <img width="1512" alt="front2" src="https://github.com/judy-kimsohui/judy-kimsohui/assets/83997634/cd281f81-9a7c-456e-9088-6632d2171b2c">
+</div>
 
 
 
