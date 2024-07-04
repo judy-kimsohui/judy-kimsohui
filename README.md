@@ -40,7 +40,7 @@ I dream of becoming a developer and am currently enhancing my technical skills t
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=judy-kimsohui&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="60%" alt="Activity Graph"/>
 </a>
 </div>
-<br>
+
 #### 📘 Education
 **2017.03~2020.01** [경북과학고등학교 Gyeongbuk Science High School 25th](https://school.gyo6.net/kbs-english/main.do?sysId=kbs-english) (Pohang, Korea)
 
@@ -48,4 +48,5 @@ I dream of becoming a developer and am currently enhancing my technical skills t
 
 **2024.04~2024.10** [Kakao Cloud School in JEJU 5th](https://rapa-kakaocloudschool-apply.goorm.io/) (Jeju Island, Korea)
 <br>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8EC5FC,50:E0C3FC,100:8EC5FC&height=40&section=footer&text=&fontSize=0" width="100%"/>
