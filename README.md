@@ -45,7 +45,8 @@ Please look forward to my future growth!
 <img src="https://img.shields.io/badge/unreal-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal"/>
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
 </div>
-
+<br>
+<h4>🌺 Activities</h4>
 <div style="display: flex; justify-content: space-between;">
 <a href="https://github.com/judy-kimsohui/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junia3&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width="36.5%" alt="Top Languages"/>
