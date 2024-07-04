@@ -9,11 +9,12 @@ Please look forward to my future growth!
 <details>
 <summary><strong>About Me</strong></summary>
 <p>
-
 <h4>🧸 I am interested in</h4>
 <strong>Web</strong> & Game Development
 <br>
-
+</p>
+ 
+<p>
 <h4>📘 Education</h4>
 
 <strong>2017.03~2020.01</strong> 
