@@ -59,7 +59,7 @@
 <h4>🥬 Best Projects</h4>
 <div style="display: flex; flex-direction: column;">
   <details>
-  <summary><h4>1. Web Platform for ADMET Property Analysis Models</h4></summary>
+  <summary>Web Platform for ADMET Property Analysis Models</summary>
   <div>
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
     <img src="https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
