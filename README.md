@@ -11,9 +11,8 @@ Please look forward to my future growth!
 <p>
 <h4>🧸 I am interested in</h4>
 <strong>Web</strong> & Game Development
-<br>
 </p>
- 
+<br>
 <p>
 <h4>📘 Education</h4>
 
