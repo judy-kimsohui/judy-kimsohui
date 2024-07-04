@@ -9,7 +9,7 @@
 <h4>🧸 I am interested in</h4>
 <strong>Web</strong> & Game Development
 </p>
-I dream of becoming a developer and am currently enhancing my technical skills through consistent development activities. Please look forward to my future growth!
+<p>I dream of becoming a developer and am currently enhancing my technical skills through consistent development activities. Please look forward to my future growth!</p>
 <br>
 <p>
 <h4>📘 Education</h4>
@@ -26,7 +26,7 @@ I dream of becoming a developer and am currently enhancing my technical skills t
 </p>
 
 </details>
-
+<br>
 <h4>📘 Skills</h4>
 <div>
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
