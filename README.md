@@ -59,7 +59,7 @@
 <h4>🥬 Best Projects</h4>
 <div style="display: flex; flex-direction: column;">
   <details>
-  <summary><strong>Web Platform for ADMET Property Analysis Models</strong>strong></summary>
+  <summary><strong>Web Platform for ADMET Property Analysis Models</strong></summary>
     <h4>ADMET 프로퍼티 분석 모델 웹 플랫폼</h4>
     <p>본 프로젝트는 신약 개발의 효율성을 높이고, 약물의 안전성과 유효성을 극대화하기 위한 목적으로 진행되었습니다.<br>약물의 흡수(Absorption), 분포(Distribution), 대사(Metabolism), 배설(Excretion), 그리고 독성(Toxicity) 특성(ADMET)을 예측하고 분석하고,<br>데이터 시각화 도구를 통해 결과를 직관적으로 파악할 수 있도록 지원합니다.</p>
     <div>
