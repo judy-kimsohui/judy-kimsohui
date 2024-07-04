@@ -13,7 +13,7 @@ I dream of becoming a developer and am currently enhancing my technical skills t
 
 #### 🧸 I am interested in
 <div style="background-color: white; padding: 20px; border-radius: 10px; border: 1px solid #d3d3d3; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-**Web** & **Game Development**
+<p>**Web** & **Game Development**</p>
 </div>
 <br>
 
