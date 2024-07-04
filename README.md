@@ -2,14 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=300&lines=Hello,+I'm+Sohui+Kim🩵)](https://git.io/typing-svg)
 
-I dream of becoming a developer and am currently enhancing my technical skills through consistent development activities. Please look forward to my future growth!
-
 <details>
 <summary><strong>🥬 About Me </strong></summary>
 <br>
 <p>
 <h4>🧸 I am interested in</h4>
 <strong>Web</strong> & Game Development
+ I dream of becoming a developer and am currently enhancing my technical skills through consistent development activities. Please look forward to my future growth!
 </p>
 <br>
 <p>
