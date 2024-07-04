@@ -1,5 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,50:E0C3FC,100:8EC5FC&height=100&section=header&text=&fontSize=0" width="100%"/>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+🩵)](https://git.io/typing-svg)
 
 ### Hello, I'm Sohui Kim.
@@ -43,5 +42,5 @@ I dream of becoming a developer and am currently enhancing my technical skills t
 **2020.03~2025.02** [중앙대학교 Chung-Ang University](https://neweng.cau.ac.kr/index.do) Double majored in [IE](https://ie.cau.ac.kr/_eng/), [Software](https://cse.cau.ac.kr/eng/main.php) (Seoul, Korea)
 
 **2024.04~2024.10** [Kakao Cloud School in JEJU 5th](https://rapa-kakaocloudschool-apply.goorm.io/) (Jeju Island, Korea)
-
+<br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8EC5FC,50:E0C3FC,100:8EC5FC&height=40&section=footer&text=&fontSize=0" width="100%"/>
