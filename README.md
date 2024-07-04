@@ -5,19 +5,20 @@
 ### Hello, I'm Sohui Kim.
 I dream of becoming a developer and am currently enhancing my technical skills through consistent development activities. Please look forward to my future growth!
 <br>
-
 <details>
 <summary>About Me</summary>
-<p>어어호호오</p>
+<p> 어어호호오</p>
 </details>
 <br>
 
 #### 🧸 I am interested in
+<div style="background-color: white; padding: 20px; border-radius: 10px; border: 1px solid #d3d3d3; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 **Web** & **Game Development**
+</div>
 <br>
 
 #### 🥬 Skills
-<div style="background-color: white; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<div style="background-color: white; padding: 20px; border-radius: 10px; border: 1px solid #d3d3d3; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" alt="Node.js"/>
@@ -35,7 +36,7 @@ I dream of becoming a developer and am currently enhancing my technical skills t
 <br>
 
 #### 📘 Education
-<div style="background-color: white; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<div style="background-color: white; padding: 20px; border-radius: 10px; border: 1px solid #d3d3d3; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 **2017.03~2020.01** [경북과학고등학교 Gyeongbuk Science High School 25th](https://school.gyo6.net/kbs-english/main.do?sysId=kbs-english) (Pohang, Korea)
 <br>
 **2020.03~2025.02** [중앙대학교 Chung-Ang University](https://neweng.cau.ac.kr/index.do) Double majored in [IE](https://ie.cau.ac.kr/_eng/), [Software](https://cse.cau.ac.kr/eng/main.php) (Seoul, Korea)
@@ -45,12 +46,12 @@ I dream of becoming a developer and am currently enhancing my technical skills t
 <br>
 
 <div style="display: flex; justify-content: space-between; gap: 10px;">
-    <div style="flex: 1;">
+    <div style="flex: 1; background-color: white; padding: 20px; border-radius: 10px; border: 1px solid #d3d3d3; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
         <a href="https://github.com/anuraghazra/github-readme-stats">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junia3&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" alt="Top Languages" style="width: 100%;" />
         </a>
     </div>
-    <div style="flex: 2;">
+    <div style="flex: 2; background-color: white; padding: 20px; border-radius: 10px; border: 1px solid #d3d3d3; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
         <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
             <img src="https://github-readme-activity-graph.vercel.app/graph?username=judy-kimsohui&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" alt="Activity Graph" style="width: 100%;" />
         </a>
