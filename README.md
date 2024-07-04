@@ -76,7 +76,7 @@
   [중앙대학교 생물정보학 연구실](http://ssbio.cau.ac.kr/web/)
   <p>Department of Biomedical Engineering | School of integrative engineering Chung-Ang University <br>84 Heukseok-ro, Dongjak-gu, Seoul, Republic of Korea
   <br></p>
-  <p><strong>학부연구생 김소희 | BE, FE</strong> 2023.10~2024.07</p>
+  <p><strong>학부연구생 김소희 | BE, FE</strong></p>
   </details>
 </div>
 
