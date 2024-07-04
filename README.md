@@ -17,7 +17,7 @@ Please look forward to my future growth!
 [Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 [Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 [Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-[Expresss](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+<img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 
 <!--   
 <img src="https://github.com/junia3/junia3/blob/output/mysnake.svg" width="100%">
