@@ -1,7 +1,7 @@
 ### Hi Bunnies 🩵
 Hello, I'm Sohui Kim. I dream of becoming a developer and am currently enhancing my technical skills through consistent development activities. Please look forward to my future growth!
 
-#### 🍪 I interested in
+#### 🥕 I interested in
 
 Web development
 
