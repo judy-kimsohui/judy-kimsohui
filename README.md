@@ -2,6 +2,11 @@
 ### Hello, I'm Sohui kim.
 I dream of becoming a developer and am currently enhancing my technical skills through consistent development activities. Please look forward to my future growth!
 
+<details>
+<summary>About Me (접혔을 때 화살표 옆에 뜨는 텍스트)</summary>
+어쩌구저쩌구 (감추고자 하는 내용)
+</summary>
+
 #### 🧸 I interested in
 
 **Web** & Game development
@@ -31,8 +36,6 @@ I dream of becoming a developer and am currently enhancing my technical skills t
 2024.04~2024.10 [Kakao Cloud School in JEJU 5th](https://rapa-kakaocloudschool-apply.goorm.io/) (Jeju Island, Korea)
 <!--https://edu.rapa.or.kr/recruitment/480-->
 
-![Judy's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=judy-kimsohui&layout=compact)
-<!--![Judy's GitHub stats](https://github-readme-stats.vercel.app/api?username=judy-kimsohui&show_icons=true&theme=radical)-->
 
 
 <!-- 
