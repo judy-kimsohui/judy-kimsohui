@@ -13,7 +13,7 @@ I dream of becoming a developer and am currently enhancing my technical skills t
 <br>
 
 #### 🧸 I am interested in
-**Web** & **Game Development**
+<strong>Web<strong> & <strong>Game Development<strong>
 <br>
 
 #### 🥬 Skills
