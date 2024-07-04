@@ -70,13 +70,13 @@
   [Dokyun Lab 중앙대학교 생물정보학 연구실](http://ssbio.cau.ac.kr/web/)
   <p>Department of Biomedical Engineering | School of integrative engineering Chung-Ang University <br>84 Heukseok-ro, Dongjak-gu, Seoul, Republic of Korea
   <br></p>
+  <p><strong>학부연구생 김소희 | BE, FE</strong></p>
   <div>
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
     <img src="https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/>
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   </div>
-  <p><strong>학부연구생 김소희 | BE, FE</strong></p>
   </details>
 </div>
 
