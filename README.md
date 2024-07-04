@@ -9,7 +9,8 @@
 <summary><strong>About Me </strong></summary>
 <br>
 <p>
-<h4>📕 Interested in <strong>Web & Game Development</strong></h4>
+<h4>📕 Interested in</h4>
+<strong>Web & Game Development</strong>
 </p>
 <p>I dream of becoming a developer and am currently enhancing my technical skills through consistent development activities.<br>Please look forward to my future growth!</p>
 <br>
