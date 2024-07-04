@@ -73,10 +73,8 @@
   <img width="38%" alt="front1" src="https://github.com/judy-kimsohui/judy-kimsohui/assets/83997634/5e67c7f4-45c9-4ae8-a9cb-4f3fea00ca72">
   <img width="38%" alt="front2" src="https://github.com/judy-kimsohui/judy-kimsohui/assets/83997634/cd281f81-9a7c-456e-9088-6632d2171b2c">
     
-  [중앙대학교 생물정보학 연구실](http://ssbio.cau.ac.kr/web/)  
-  <p><strong>학부연구생 김소희 | BE, FE</strong>
-  <br>
-  Department of Biomedical Engineering | School of integrative engineering Chung-Ang University <br>84 Heukseok-ro, Dongjak-gu, Seoul, Republic of Korea</p>
+  [중앙대학교 생물정보학 연구실](http://ssbio.cau.ac.kr/web/) <strong>학부연구생 김소희 | BE, FE</strong>
+  <p>Department of Biomedical Engineering | School of integrative engineering Chung-Ang University <br>84 Heukseok-ro, Dongjak-gu, Seoul, Republic of Korea</p>
   </details>
 </div>
 
