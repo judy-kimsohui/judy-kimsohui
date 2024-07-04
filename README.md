@@ -6,10 +6,6 @@ I dream of becoming a developer and am currently enhancing my technical skills t
 
 Please look forward to my future growth!
 
-<h4>🧸 I am interested in</h4>
-<strong>Web</strong> & Game Development
-<br>
-
 <h4>🥬 Skills</h4>
 <div>
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
@@ -31,6 +27,10 @@ Please look forward to my future growth!
 <summary><strong>About Me</strong></summary>
 <p>
 
+<h4>🧸 I am interested in</h4>
+<strong>Web</strong> & Game Development
+<br>
+
 <h4>📘 Education</h4>
 
 <strong>2017.03~2020.01</strong> 
@@ -43,9 +43,6 @@ Please look forward to my future growth!
  [Kakao Cloud School in JEJU 5th](https://rapa-kakaocloudschool-apply.goorm.io/) (Jeju Island, Korea)
 <br>
 </p>
-</details>
-
-
 
 <div style="display: flex; justify-content: space-between;">
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -55,5 +52,7 @@ Please look forward to my future growth!
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=judy-kimsohui&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="63%" alt="Activity Graph"/>
 </a>
 </div>
+
+</details>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8EC5FC,50:E0C3FC,100:8EC5FC&height=40&section=footer&text=&fontSize=0" width="100%"/>
