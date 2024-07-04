@@ -62,20 +62,20 @@
   <summary><strong>Web Platform for ADMET Property Analysis Models</strong></summary>
     <br>
     <p>This project aims to improve the efficiency of drug development and maximize the safety and efficacy of pharmaceuticals. It predicts and analyzes the ADMET properties—Absorption, Distribution, Metabolism, Excretion, and Toxicity—of drug candidates and supports intuitive understanding of the results through data visualization tools.</p>
-    <h4>ADMET 프로퍼티 분석 모델 웹 플랫폼</h4>
-    <p>본 프로젝트는 신약 개발의 효율성을 높이고, 약물의 안전성과 유효성을 극대화하기 위한 목적으로 진행되었습니다.<br>약물의 흡수(Absorption), 분포(Distribution), 대사(Metabolism), 배설(Excretion), 그리고 독성(Toxicity) 특성(ADMET)을 예측하고 분석하고,<br>데이터 시각화 도구를 통해 결과를 직관적으로 파악할 수 있도록 지원합니다.</p>
-    <div>
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-    <img src="https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/>
-    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  </div>
+    <!--<h4>ADMET 프로퍼티 분석 모델 웹 플랫폼</h4>
+    <p>본 프로젝트는 신약 개발의 효율성을 높이고, 약물의 안전성과 유효성을 극대화하기 위한 목적으로 진행되었습니다.<br>약물의 흡수(Absorption), 분포(Distribution), 대사(Metabolism), 배설(Excretion), 그리고 독성(Toxicity) 특성(ADMET)을 예측하고 분석하고,<br>데이터 시각화 도구를 통해 결과를 직관적으로 파악할 수 있도록 지원합니다.</p>-->
   <img width="38%" alt="front1" src="https://github.com/judy-kimsohui/judy-kimsohui/assets/83997634/5e67c7f4-45c9-4ae8-a9cb-4f3fea00ca72">
   <img width="38%" alt="front2" src="https://github.com/judy-kimsohui/judy-kimsohui/assets/83997634/cd281f81-9a7c-456e-9088-6632d2171b2c">
     
   [Dokyun Lab 중앙대학교 생물정보학 연구실](http://ssbio.cau.ac.kr/web/)
   <p>Department of Biomedical Engineering | School of integrative engineering Chung-Ang University <br>84 Heukseok-ro, Dongjak-gu, Seoul, Republic of Korea
   <br></p>
+  <div>
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+    <img src="https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/>
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  </div>
   <p><strong>학부연구생 김소희 | BE, FE</strong></p>
   </details>
 </div>
