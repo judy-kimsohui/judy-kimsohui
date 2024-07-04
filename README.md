@@ -10,7 +10,7 @@
 <br>
 <p>
 <h4>🩵 Interested in</h4>
-<strong>Web & Game Development</strong>
+<strong>Web Development</strong>
 </p>
 <p>I dream of becoming a developer and am currently enhancing my technical skills through consistent development activities.<br>Please look forward to my future growth!</p>
 <br>
