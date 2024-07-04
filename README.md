@@ -14,8 +14,7 @@
 <strong>Web & Game Development</strong>
 <p>I dream of becoming a developer and am currently enhancing my technical skills through consistent development activities.<br>Please look forward to my future growth!</p>
 <p>저는 고등학생 때 처음으로 개발에 관심을 가져 공부를 시작했고, 웹 개발과 게임 개발을 공부했습니다.
-<br>다양한 프로젝트를 통해 개발 실력을 키웠습니다.
-<br>현재 Backend 직무로 취업을 희망하고 있습니다.</p>
+<br>다양한 프로젝트를 통해 개발 실력을 키웠고, Backend 직무로 취업을 희망하고 있습니다.</p>
 
 <br>
 <h4>🩵 Education</h4>
