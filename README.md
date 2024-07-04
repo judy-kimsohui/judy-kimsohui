@@ -10,9 +10,11 @@ I dream of becoming a developer and am currently enhancing my technical skills t
 <p> 어어호호오</p>
 </details>
 <br>
+
 #### 🧸 I am interested in
 **Web** & **Game Development**
 <br>
+
 #### 🥬 Skills
 <div>
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
