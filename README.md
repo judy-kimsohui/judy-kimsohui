@@ -8,7 +8,7 @@ I dream of becoming a developer and am currently enhancing my technical skills t
 <summary>About Me (접혔을 때 화살표 옆에 뜨는 텍스트)</summary>
 어쩌구저쩌구 (감추고자 하는 내용)
 </summary>
-
+<span>
 #### 🧸 I interested in
 
 **Web** & Game development
@@ -38,6 +38,8 @@ I dream of becoming a developer and am currently enhancing my technical skills t
 2024.04~2024.10 [Kakao Cloud School in JEJU 5th](https://rapa-kakaocloudschool-apply.goorm.io/) (Jeju Island, Korea)
 <!--https://edu.rapa.or.kr/recruitment/480-->
 
+</span>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
 
 
 <!-- 
