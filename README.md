@@ -9,7 +9,6 @@ I dream of becoming a developer and am currently enhancing my technical skills t
 <summary>About Me</summary>
 <p> 어어호호오</p>
 </details>
-<br>
 
 #### 🧸 I am interested in
 **Web** & **Game Development**
