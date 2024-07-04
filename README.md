@@ -29,6 +29,9 @@ I dream of becoming a developer and am currently enhancing my technical skills t
 <img src="https://img.shields.io/badge/unreal-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/><!--Unreal--> 
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/><!--Unity--> 
 
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=junia3&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+</a>
 
 #### 📘 Education
 2017.03~2020.01 [경북과학고등학교 Gyeongbuk Science High School 25th](https://school.gyo6.net/kbs-english/main.do?sysId=kbs-english) (Pohang, Korea)
