@@ -27,9 +27,7 @@
  [Kakao Cloud School in JEJU 5th](https://rapa-kakaocloudschool-apply.goorm.io/) (Jeju Island, Korea)
 
 <br>
-<h5>✨ 취업 준비중</h5>
-
-<h4>저와 함께 일하고 싶으신가요? ✨</h4>
+<div><h4>저와 함께 일하고 싶으신가요? ✨</h4><h5>✨ 취업 준비중</h5></div>
 <p>저는 팀 목표를 위해 협력하는 것을 중요시하며, 주어진 역할을 충실히 수행하는 사람입니다.</p>
 
 <li>새로운 기술과 프로젝트에 도전하는 것을 즐깁니다.</li>
