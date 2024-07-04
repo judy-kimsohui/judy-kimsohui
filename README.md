@@ -8,6 +8,7 @@ Please look forward to my future growth!
 
 <details>
 <summary><strong>About Me</strong></summary>
+<br>
 <p>
 <h4>🧸 I am interested in</h4>
 <strong>Web</strong> & Game Development
