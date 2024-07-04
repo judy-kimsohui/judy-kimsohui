@@ -17,9 +17,9 @@ Please look forward to my future growth!
 <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/><!--typescript--> 
 
 #### 📘 Education
-2017.03~2020.01 [경북과학고등학교 Gyeongbuk Science High School 25th](https://school.gyo6.net/kbs-english/main.do?sysId=kbs-english) 
+2017.03~2020.01 [경북과학고등학교 Gyeongbuk Science High School 25th](https://school.gyo6.net/kbs-english/main.do?sysId=kbs-english) (Pohang, Korea)
 
-2020.03~2025.02 [중앙대학교 Chung-Ang University](https://neweng.cau.ac.kr/index.do) Double majored in [IE](https://ie.cau.ac.kr/_eng/), [Software](https://cse.cau.ac.kr/eng/main.php) 
+2020.03~2025.02 [중앙대학교 Chung-Ang University](https://neweng.cau.ac.kr/index.do) Double majored in [IE](https://ie.cau.ac.kr/_eng/), [Software](https://cse.cau.ac.kr/eng/main.php) (Seoul, Korea)
 
 2024.04~2024.10 [Kakao Cloud School in JEJU 5th](https://rapa-kakaocloudschool-apply.goorm.io/)
 <!--https://edu.rapa.or.kr/recruitment/480-->
