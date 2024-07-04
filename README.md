@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,50:E0C3FC,100:8EC5FC&height=100&section=header&text=&fontSize=0" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+🩵)](https://git.io/typing-svg)
 
@@ -6,10 +6,8 @@
 I dream of becoming a developer and am currently enhancing my technical skills through consistent development activities. Please look forward to my future growth!
 
 <details>
-<summary>About Me (접혔을 때 화살표 옆에 뜨는 텍스트)</summary>
-<p>
-어쩌구저쩌구 (감추고자 하는 내용)
-</p>
+<summary>About Me</summary>
+<p> 어어호호오</p>
 </details>
 
 #### 🧸 I am interested in
@@ -30,12 +28,12 @@ I dream of becoming a developer and am currently enhancing my technical skills t
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
 </div>
 
-<div>
+<div style="display: flex; justify-content: space-between;">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junia3&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junia3&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width="48%" alt="Top Languages"/>
 </a> 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=judy-kimsohui&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94% alt="Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=judy-kimsohui&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="48%" alt="Activity Graph"/>
 </a>
 </div>
 
@@ -46,4 +44,4 @@ I dream of becoming a developer and am currently enhancing my technical skills t
 
 **2024.04~2024.10** [Kakao Cloud School in JEJU 5th](https://rapa-kakaocloudschool-apply.goorm.io/) (Jeju Island, Korea)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8EC5FC,50:E0C3FC,100:8EC5FC&height=40&section=footer&text=&fontSize=0" width="100%"/>
