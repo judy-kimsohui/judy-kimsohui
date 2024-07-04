@@ -28,7 +28,7 @@ Please look forward to my future growth!
 </p>
 
 </details>
-
+<br>
 <h4>🥬 Skills</h4>
 <div>
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
@@ -45,7 +45,7 @@ Please look forward to my future growth!
 <img src="https://img.shields.io/badge/unreal-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal"/>
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
 </div>
-<br>
+
 <h4>🌺 Activities</h4>
 <div style="display: flex; justify-content: space-between;">
 <a href="https://github.com/judy-kimsohui/github-readme-stats">
@@ -56,4 +56,4 @@ Please look forward to my future growth!
 </a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8EC5FC,50:E0C3FC,100:8EC5FC&height=40&section=footer&text=&fontSize=0" width="100%"/>
+<!--<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8EC5FC,50:E0C3FC,100:8EC5FC&height=40&section=footer&text=&fontSize=0" width="100%"/>-->
