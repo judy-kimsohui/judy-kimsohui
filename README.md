@@ -1,18 +1,17 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,50:E0C3FC,100:8EC5FC&height=100&section=header&text=&fontSize=0" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+🩵)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello,+I'm+Sohui+Kim🩵)](https://git.io/typing-svg)
 
-### Hello, I'm Sohui Kim.
 I dream of becoming a developer and am currently enhancing my technical skills through consistent development activities. Please look forward to my future growth!
-<br>
+
 <details>
 <summary>About Me</summary>
 <p>
-#### 🧸 I am interested in
-**Web** & **Game Development**
+<h4>🧸 I am interested in</h4>
+<strong>Web</strong> & Game Development
 <br>
 
-#### 🥬 Skills
+<h4>🥬 Skills</h4>
 <div>
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
@@ -30,15 +29,16 @@ I dream of becoming a developer and am currently enhancing my technical skills t
 </div>
 
 
-#### 📘 Education
-**2017.03~2020.01** [경북과학고등학교 Gyeongbuk Science High School 25th](https://school.gyo6.net/kbs-english/main.do?sysId=kbs-english) (Pohang, Korea)
+<h4>📘 Education</h4>
+<strong>2017.03~2020.01</strong>
+ [경북과학고등학교 Gyeongbuk Science High School 25th](https://school.gyo6.net/kbs-english/main.do?sysId=kbs-english) (Pohang, Korea)
 
-**2020.03~2025.02** [중앙대학교 Chung-Ang University](https://neweng.cau.ac.kr/index.do) Double majored in [IE](https://ie.cau.ac.kr/_eng/), [Software](https://cse.cau.ac.kr/eng/main.php) (Seoul, Korea)
+<strong>2020.03~2025.02</strong> 
+ [중앙대학교 Chung-Ang University](https://neweng.cau.ac.kr/index.do) Double majored in [IE](https://ie.cau.ac.kr/_eng/), [Software](https://cse.cau.ac.kr/eng/main.php) (Seoul, Korea)
 
-**2024.04~2024.10** [Kakao Cloud School in JEJU 5th](https://rapa-kakaocloudschool-apply.goorm.io/) (Jeju Island, Korea)
+<strong>2024.04~2024.10</strong>
+ [Kakao Cloud School in JEJU 5th](https://rapa-kakaocloudschool-apply.goorm.io/) (Jeju Island, Korea)
 <br>
-
-    
 </p>
 </details>
 
