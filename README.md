@@ -15,6 +15,7 @@ Hello, I'm Sohui Kim. I dream of becoming a developer and am currently enhancing
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/><!--Postgres--> 
 
 <img src="https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/><!--React--> 
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><!--javascript--> 
 <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/><!--typescript--> 
 
 <img src="https://img.shields.io/badge/unreal-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/><!--Unreal--> 
