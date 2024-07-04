@@ -4,15 +4,15 @@
 
 ### Hello, I'm Sohui Kim.
 I dream of becoming a developer and am currently enhancing my technical skills through consistent development activities. Please look forward to my future growth!
-
+<br>
 <details>
 <summary>About Me</summary>
 <p> 어어호호오</p>
 </details>
-
+<br>
 #### 🧸 I am interested in
 **Web** & **Game Development**
-
+<br>
 #### 🥬 Skills
 <div>
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
@@ -29,7 +29,7 @@ I dream of becoming a developer and am currently enhancing my technical skills t
 <img src="https://img.shields.io/badge/unreal-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal"/>
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
 </div>
-
+<br>
 <div style="display: flex; justify-content: space-between;">
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junia3&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width="35%" alt="Top Languages"/>
@@ -38,8 +38,7 @@ I dream of becoming a developer and am currently enhancing my technical skills t
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=judy-kimsohui&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="60%" alt="Activity Graph"/>
 </a>
 </div>
-
-
+<br>
 #### 📘 Education
 **2017.03~2020.01** [경북과학고등학교 Gyeongbuk Science High School 25th](https://school.gyo6.net/kbs-english/main.do?sysId=kbs-english) (Pohang, Korea)
 
