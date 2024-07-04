@@ -5,6 +5,10 @@ I dream of becoming a developer and am currently enhancing my technical skills t
 
 Please look forward to my future growth!
 
+#### 🍪 Interested in
+
+- Web development
+
 #### 🥬 Skills
 
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/><!--Spring--> 
