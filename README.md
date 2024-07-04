@@ -7,7 +7,7 @@ Please look forward to my future growth!
 
 #### 🍪 Interested in
 
-- Web development
+Web development
 
 #### 🥬 Skills
 
