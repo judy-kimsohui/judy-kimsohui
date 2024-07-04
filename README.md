@@ -9,12 +9,12 @@
 <summary><strong>About Me </strong></summary>
 <br>
 <p>
-<h4>📕 Interested in</h4>
+<h4>🩵 Interested in</h4>
 <strong>Web & Game Development</strong>
 </p>
 <p>I dream of becoming a developer and am currently enhancing my technical skills through consistent development activities.<br>Please look forward to my future growth!</p>
 <br>
-<h4>📘 Education</h4>
+<h4>🩵 Education</h4>
 
 <strong>2017.03~2020.01</strong> 
  [경북과학고등학교 Gyeongbuk Science High School 25th](https://school.gyo6.net/kbs-english/main.do?sysId=kbs-english) (Pohang, Korea)
