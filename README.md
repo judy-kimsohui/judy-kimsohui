@@ -32,7 +32,7 @@
 <div>
   <div>
     <a href="https://judy-kimsohui.github.io/Blog/"><img src="https://img.shields.io/badge/Welcome%20to%20Judy's%20Blog-f0e1fe?style=for-the-badge" alt="🩵 Welcome to Judy's Blog"/></a>
-    |
+    published by
     <img src="https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
     <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
   </div>
