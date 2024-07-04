@@ -5,11 +5,6 @@ I dream of becoming a developer and am currently enhancing my technical skills t
 
 Please look forward to my future growth!
 
-#### 📘 Education
-2017~2019 [경북과학고등학교 Gyeongbuk science high school 25th](https://school.gyo6.net/kbs-english/main.do?sysId=kbs-english) 
-
-2020~2024 [중앙대학교 Chung-Ang University](https://neweng.cau.ac.kr/index.do) Double majored in [IE](https://ie.cau.ac.kr/_eng/), [Software](https://cse.cau.ac.kr/eng/main.php) 
-
 #### 🥬 Skills
 
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/><!--Spring--> 
@@ -20,6 +15,13 @@ Please look forward to my future growth!
 <img src="https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/><!--React--> 
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><!--javascript--> 
 <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/><!--typescript--> 
+
+#### 📘 Education
+2017.03~2020.01 [경북과학고등학교 Gyeongbuk science high school 25th](https://school.gyo6.net/kbs-english/main.do?sysId=kbs-english) 
+
+2020.03~2025.02 [중앙대학교 Chung-Ang University](https://neweng.cau.ac.kr/index.do) Double majored in [IE](https://ie.cau.ac.kr/_eng/), [Software](https://cse.cau.ac.kr/eng/main.php) 
+
+2024.04~2024.10 [Kakao Cloud School in JEJU 5기](https://edu.rapa.or.kr/recruitment/480)
 
 
 <!--   
