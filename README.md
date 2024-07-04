@@ -21,7 +21,7 @@ Please look forward to my future growth!
 
 2020.03~2025.02 [중앙대학교 Chung-Ang University](https://neweng.cau.ac.kr/index.do) Double majored in [IE](https://ie.cau.ac.kr/_eng/), [Software](https://cse.cau.ac.kr/eng/main.php) 
 
-2024.04~2024.10 [Kakao Cloud School in JEJU 5기](https://rapa-kakaocloudschool-apply.goorm.io/)
+2024.04~2024.10 [Kakao Cloud School in JEJU 5th](https://rapa-kakaocloudschool-apply.goorm.io/)
 <!--https://edu.rapa.or.kr/recruitment/480-->
 
 
