@@ -7,15 +7,16 @@
 
 <details>
 <summary><strong>About Me 🐰</strong></summary>
+
 <br>
-<p>
 <h4>🩵 Interested in</h4>
-<strong>Web Development</strong>
-</p>
+
+<strong>Web & Game Development</strong>
 <p>I dream of becoming a developer and am currently enhancing my technical skills through consistent development activities.<br>Please look forward to my future growth!</p>
+
 <br>
 <h4>🩵 Education</h4>
-
+  
 <strong>2017.03~2020.01</strong> 
  [경북과학고등학교 Gyeongbuk Science High School 25th](https://school.gyo6.net/kbs-english/main.do?sysId=kbs-english) (Pohang, Korea)
 
@@ -24,8 +25,27 @@
 
 <strong>2024.04~2024.10</strong>
  [Kakao Cloud School in JEJU 5th](https://rapa-kakaocloudschool-apply.goorm.io/) (Jeju Island, Korea)
+
 <br>
-</p>
+<h4>🩵 My Strengths</h4>
+
+<br>
+<p><strong>저는 함께 일하기 좋은 사람입니다. ✨</strong>
+<br>팀워크와 협업을 중요하게 여기며, 모든 구성원이 최고의 성과를 낼 수 있도록 도와주는 사람입니다.
+<br>
+<br><strong>도전을 즐깁니다. 🚀</strong>
+<br>새로운 기술과 프로젝트에 대한 도전을 사랑하며, 복잡한 문제를 해결하는 데서 큰 보람을 느낍니다.
+<br>
+<br><strong>체계적인 정리에 강합니다. 📚</strong>
+<br>복잡한 정보를 논리적으로 정리하고 명확하게 전달하는 능력을 가지고 있습니다.
+<br>
+<br><strong>My Philosophy</strong>
+<br>제가 좋아하는 것은 <strong>"덜어냄의 미학"</strong>입니다.🌱
+<br>불필요한 요소를 제거하고 본질에 집중하는 것을 중요하게 생각하며, 간결하고 효율적인 해결책을 추구합니다.</p>
+
+
+<p>저는 함께 일하기 좋은 사람입니다. 도전을 좋아하고 체계적으로 정리하는 것에 장점이 있습니다. 좋아하는 것은 "덜어냄의 미학"입니다.🌱</p>
+
 
 </details>
 <br>
