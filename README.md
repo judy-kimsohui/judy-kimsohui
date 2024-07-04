@@ -31,6 +31,8 @@ I dream of becoming a developer and am currently enhancing my technical skills t
 2024.04~2024.10 [Kakao Cloud School in JEJU 5th](https://rapa-kakaocloudschool-apply.goorm.io/) (Jeju Island, Korea)
 <!--https://edu.rapa.or.kr/recruitment/480-->
 
+![Judy's GitHub stats](https://github-readme-stats.vercel.app/api?username=judy-kimsohui&show_icons=true&theme=radical)
+
 
 <!-- 
 <img src="https://github.com/junia3/junia3/blob/output/mysnake.svg" width="100%">
