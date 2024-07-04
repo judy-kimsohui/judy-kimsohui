@@ -30,8 +30,6 @@ Please look forward to my future growth!
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,50:E0C3FC,100:8EC5FC&height=100&section=footer&text=&fontSize=0" width="100%"/>
-
 <h4>📘 Skills</h4>
 <div>
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
@@ -59,4 +57,5 @@ Please look forward to my future growth!
 </a>
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,50:E0C3FC,100:8EC5FC&height=100&section=footer&text=&fontSize=0" width="100%"/>
 <!--<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8EC5FC,50:E0C3FC,100:8EC5FC&height=40&section=footer&text=&fontSize=0" width="100%"/>-->
