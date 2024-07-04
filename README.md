@@ -7,7 +7,7 @@ I dream of becoming a developer and am currently enhancing my technical skills t
 Please look forward to my future growth!
 
 <details>
-<summary><strong>About Me</strong></summary>
+<summary><strong>🌿About Me🌿</strong></summary>
 <br>
 <p>
 <h4>🧸 I am interested in</h4>
