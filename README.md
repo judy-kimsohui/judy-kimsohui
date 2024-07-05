@@ -130,6 +130,7 @@
 <p><h4>$\bf{\normalsize{\color{#702fd6}💜\ Skills}}$</h4></p>
 <div>
 <img src="https://skillicons.dev/icons?i=spring,flask,nodejs,docker,aws,mysql,postgres,react,javascript,typescript,unreal,unity&theme=light" />
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" /></div>
 <br>
 
 
