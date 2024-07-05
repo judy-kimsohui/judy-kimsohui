@@ -39,7 +39,7 @@
 
 <h5>✨ 취업 준비중 (Web BE) ✨ <a href="mailto:sohuikim2020@naver.com">sohuikim2020@naver.com</a> 클릭하면 이메일을 보낼 수 있어요!</h5>
 
----
+<h1> </h1>
 
 </details>
 
@@ -91,7 +91,7 @@
   <br>
   <p>아아</p>
 
-  ---
+  <h1> </h1>
     
   </details>
   <details>
@@ -99,7 +99,7 @@
   <br>
   <p>아아</p>
 
-  ---
+  <h1> </h1>
     
   </details>
 </div>
@@ -112,7 +112,7 @@
   <br>
   <p>아아</p>
 
-  ---
+  <h1> </h1>
     
   </details>
   <details>
@@ -120,7 +120,7 @@
   <br>
   <p>아아</p>
   
-  ---
+  <h1> </h1>
     
   </details>
   <details>
@@ -128,7 +128,7 @@
   <br>
   <p>아아</p>
 
-  ---
+  <h1> </h1>
     
   </details>
 </div>
