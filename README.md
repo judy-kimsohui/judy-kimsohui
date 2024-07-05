@@ -86,7 +86,7 @@
 <br>
 <h4>💙 Skills</h4>
 <div>
-<img src="https://skillicons.dev/icons?i=spring,Flask,node.js,docker,aws,MySQL,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=spring,flask,nodejs,docker,aws,mysql,postgres" />
 <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,prisma,aws,apollo,graphql,tailwindcss&theme=dark" />
   
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
