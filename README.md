@@ -9,7 +9,7 @@
 <summary><strong>About Me 🐰</strong></summary>
 
 <br>
-<h3>🩵 Interested in</h3>
+<h4>🩵 Interested in</h4>
 
 <strong>Web & Game Development</strong>
 <p>I dream of becoming a developer and am currently enhancing my technical skills through consistent development activities.<br>Please look forward to my future growth!</p>
@@ -17,7 +17,7 @@
 <br>다양한 프로젝트를 통해 개발 실력을 키웠고, 웹개발 Backend 직무로 취업을 희망하고 있습니다.</p>
 
 <br>
-<h3>🩵 Education</h3>
+<h4>🩵 Education</h4>
   
 <strong>2017.03~2020.01</strong> 
   [경북과학고등학교 Gyeongbuk Science High School 25th](https://school.gyo6.net/kbs-english/main.do?sysId=kbs-english) (Pohang, Korea)
@@ -29,7 +29,7 @@
  [Kakao Cloud School in JEJU 5th](https://rapa-kakaocloudschool-apply.goorm.io/) (Jeju Island, Korea)
 
 <br>
-<h3>🩵 저와 함께하고 싶으신가요?</h3>
+<h4>🩵 저와 함께하고 싶으신가요?</h4>
 <p>저는 팀 목표를 위해 협력하는 것을 중요시하며, 주어진 역할을 충실히 수행하는 사람입니다.</p>
 
 <li>새로운 기술과 프로젝트에 도전하는 것을 즐깁니다.</li>
@@ -50,7 +50,7 @@
   </div>
 </div>
 
-<h3>🥬 Best Projects</h3>
+<h4>🥬 Best Projects</h4>
 <div style="display: flex; flex-direction: column;">
   <a href="https://tiny-helicopter-4d0.notion.site/cdd9676f8af34393aab175904a01e58b" target="_blank"><img src="https://img.shields.io/badge/Portfolio%20(공사중)-f6cad9?style=for-the-badge" alt="Portfolio"/></a>
   <br>
@@ -98,7 +98,7 @@
 </div>
 
 <br>
-<h3>🥬 Attend. Dev-Studies</h3>
+<h4>🥬 Attend. Dev-Studies</h4>
 <div style="display: flex; flex-direction: column;">
   <details>
   <summary><strong>Algorithm</strong></summary>
@@ -127,7 +127,7 @@
 </div>
 
 <br>
-<h3>💙 Skills</h3>
+<h4>💙 Skills</h4>
 <div>
 <img src="https://skillicons.dev/icons?i=spring,flask,nodejs,docker,aws,mysql,postgres,react,javascript,typescript,unreal,unity&theme=light" />
 <br>
@@ -135,7 +135,7 @@
 
 </div>
 
-<h3>💙 Activities</h3>
+<h4>💙 Activities</h4>
 <div style="display: flex; justify-content: space-between;">
 <a href="https://github.com/judy-kimsohui">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junia3&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width="28.5%" alt="Top Languages"/>
