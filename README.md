@@ -133,7 +133,6 @@
   </details>
 </div>
 <h1> </h1>
-<br>
 <h4>💜 Skills</h4>
 <div>
 
