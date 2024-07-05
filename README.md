@@ -80,7 +80,7 @@
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   </div>
 
-  
+  <br>
   <div><img width="200" alt="image" src="https://github.com/judy-kimsohui/judy-kimsohui/assets/83997634/b999cf94-a1ad-43d2-a413-4fd6a0565462"></div>
   <p><strong>학부연구생 김소희 | BE, FE</strong></p></div>
   
