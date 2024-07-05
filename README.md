@@ -46,7 +46,7 @@
 <div>
   <div>
     <a href="https://judy-kimsohui.github.io/Blog/" target="_blank"><img src="https://img.shields.io/badge/Welcome%20to%20Judy's%20Blog-f0e1fe?style=for-the-badge" alt="🩵 Welcome to Judy's Blog"/></a>
-    <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+    <a href="https://github.com/judy-kimsohui/Blog"><img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/></a>
   </div>
 </div>
 
