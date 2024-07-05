@@ -89,11 +89,17 @@
   <summary><strong>Web Dev</strong></summary>
     <br>
     아아
+
+    ---
+    
   </details>
   <details>
   <summary><strong>Web Dev</strong></summary>
     <br>
     아아
+    
+    ---
+    
   </details>
 </div>
 
