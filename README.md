@@ -49,7 +49,8 @@
     <a href="https://github.com/judy-kimsohui/Blog"><img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/></a>
   </div>
 </div>
-<span style="color:red"> 글씨색 변경 </span>
+<p>$\cal{calligraphic\ text}$</p>
+
 <h4>🥬 Best Projects</h4>
 <div style="display: flex; flex-direction: column;">
   <a href="https://tiny-helicopter-4d0.notion.site/cdd9676f8af34393aab175904a01e58b" target="_blank"><img src="https://img.shields.io/badge/Portfolio%20(공사중)-f6cad9?style=for-the-badge" alt="Portfolio"/></a>
