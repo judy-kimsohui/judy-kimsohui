@@ -86,11 +86,11 @@
 <br>
 <h4>💙 Skills</h4>
 <div>
-<img src="https://skillicons.dev/icons?i=spring,flask,nodejs,docker,aws,mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=spring,flask,nodejs,docker,aws,mysql,postgres&theme=light" />
 <br>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react&theme=light" />
 <br>
-<img src="https://skillicons.dev/icons?i=unreal,unity" />
+<img src="https://skillicons.dev/icons?i=unreal,unity&theme=light" />
 </div>
 <br>
 <h4>💙 Activities</h4>
