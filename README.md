@@ -68,9 +68,9 @@
 
   <div style="display: flex; flex-direction: column;">
   <a href="http://ssbio.cau.ac.kr/web/">Dokyun Lab 중앙대학교 생물정보학 연구실</a>
+  <p><strong>학부연구생 김소희 | BE, FE</strong></p>
   <br>
   <img width="200" alt="image" src="https://github.com/judy-kimsohui/judy-kimsohui/assets/83997634/b999cf94-a1ad-43d2-a413-4fd6a0565462">
-  <p><strong>학부연구생 김소희 | BE, FE</strong></p>
   </div>
   
   <div>
