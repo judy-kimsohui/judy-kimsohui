@@ -49,6 +49,17 @@
     <a href="https://github.com/judy-kimsohui/Blog"><img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/></a>
   </div>
 </div>
+<h4>💜 Skills</h4>
+<div>
+
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://skillicons.dev/icons?i=react,spring,flask,express,nodejs,mysql,postgres&theme=light" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="55" height="55" />
+</div>
+<br>
+
 <h1> </h1>
 <h4>🥬 Best Projects</h4>
 <div style="display: flex; flex-direction: column;">
@@ -133,18 +144,6 @@
   </details>
 </div>
 <h1> </h1>
-<h4>💜 Skills</h4>
-<div>
-
-<div style="display: flex; align-items: flex-start;">
-  <img src="https://skillicons.dev/icons?i=react,spring,flask,express,nodejs,mysql,postgres&theme=light" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="55" height="55" />
-</div>
-<br>
-
-
 </div>
 
 <h4>💜 Activities</h4>
