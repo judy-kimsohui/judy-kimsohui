@@ -88,7 +88,6 @@
 <div>
 <img src="https://skillicons.dev/icons?i=spring,flask,nodejs,docker,aws,mysql,postgres,react,javascript,typescript,unreal,unity&theme=light" />
 <br>
-이 프로젝트는 <abbr title="Hyper Text Markup Language">HTML</abbr>, <abbr title="Cascading Style Sheets">CSS</abbr>, 및 <abbr title="JavaScript">JS</abbr>를 사용합니다.
 
 
 </div>
@@ -103,7 +102,7 @@
 </a>
 </div>
 <br>
-
+이 프로젝트는 <abbr title="Hyper Text Markup Language">HTML</abbr>, <abbr title="Cascading Style Sheets">CSS</abbr>, 및 <abbr title="JavaScript">JS</abbr>를 사용합니다.
 
 <!--<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,50:E0C3FC,100:8EC5FC&height=100&section=footer&text=&fontSize=0" width="100%"/>-->
 <!--<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8EC5FC,50:E0C3FC,100:8EC5FC&height=40&section=footer&text=&fontSize=0" width="100%"/>-->
