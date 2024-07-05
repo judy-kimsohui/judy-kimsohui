@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=300&lines=Hello,+I'm+Sohui+Kim+🩵)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=300&lines=Hello,+I'm+Judy+Kim+🩵)](https://git.io/typing-svg)
 </div>
 
 <details>
