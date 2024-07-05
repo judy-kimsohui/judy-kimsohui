@@ -38,7 +38,7 @@
 <li>팀 내에서 행복한 분위기를 이끌며 일합니다!</li>
 
 <h5>✨ 취업 준비중 (Web BE) ✨ <a href="mailto:sohuikim2020@naver.com">sohuikim2020@naver.com</a> 클릭하면 이메일을 보낼 수 있어요!</h5>
-
+<br>
 
 </details>
 
