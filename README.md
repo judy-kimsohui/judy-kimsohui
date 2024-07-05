@@ -58,7 +58,6 @@
   <details>
   <summary><strong>ADMET 프로퍼티 분석 모델 웹 플랫폼</strong><br>&ensp;&ensp;Web Platform for ADMET Property Analysis Models</summary>
   <br>
-  <h4>ADMET 프로퍼티 분석 모델 웹 플랫폼</h4>
   <!--<p>This project aims to improve the efficiency of drug development and maximize the safety and efficacy of pharmaceuticals. It predicts and analyzes the ADMET properties—Absorption, Distribution, Metabolism, Excretion, and Toxicity—of drug candidates and supports intuitive understanding of the results through data visualization tools.</p>-->
     
   
