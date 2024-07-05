@@ -6,7 +6,7 @@
 </div>
 
 <details>
-<summary><strong>About Me 🐰</strong></summary>
+<summary><h4><strong>About Me 🐰</strong></h4></summary>
 
 <br>
 <h4>🩵 Interested in</h4>
