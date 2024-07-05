@@ -148,10 +148,10 @@
 <h4>💜 Activities</h4>
 <div style="display: flex; justify-content: space-between;">
 <a href="https://github.com/judy-kimsohui">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junia3&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=c9a8ff&text_color=fff&title_color=c9a8ff&count_private=true&exclude_repo=Face-Transfer-Application" width="28.5%" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junia3&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=c9a8ff&text_color=fff&title_color=c9a8ff&count_private=true&exclude_repo=Face-Transfer-Application" width="30%" alt="Top Languages"/>
 </a> 
 <a href="https://github.com/judy-kimsohui">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=judy-kimsohui&theme=react-dark&bg_color=20232a&hide_border=true&line=c9a8ff&color=c9a8ff" width="50%" alt="Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=judy-kimsohui&theme=react-dark&bg_color=20232a&hide_border=true&line=c9a8ff&color=c9a8ff" width="52%" alt="Activity Graph"/>
 </a>
 </div>
 
