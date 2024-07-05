@@ -87,7 +87,9 @@
 <h4>💙 Skills</h4>
 <div>
 <img src="https://skillicons.dev/icons?i=spring,flask,nodejs,docker,aws,mysql,postgres,react,javascript,typescript,unreal,unity&theme=light" />
-<abbr title="Hyper Text Markup Language">HTML</abbr>은 웹 페이지를 만드는 데 사용됩니다.
+<br>
+이 프로젝트는 <abbr title="Hyper Text Markup Language">HTML</abbr>, <abbr title="Cascading Style Sheets">CSS</abbr>, 및 <abbr title="JavaScript">JS</abbr>를 사용합니다.
+
 
 </div>
 <br>
