@@ -49,7 +49,6 @@
     <a href="https://github.com/judy-kimsohui/Blog"><img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/></a>
   </div>
 </div>
-<p>$\cal{calligraphic\ text}$</p>
 
 <h4>🥬 Best Projects</h4>
 <div style="display: flex; flex-direction: column;">
@@ -57,7 +56,7 @@
   <br>
   <br>
   <details>
-  <summary><strong>ADMET 프로퍼티 분석 모델 웹 플랫폼</strong><br>$\rm{\ \ Web\ Platform\ for\ ADMET\ Property\ Analysis\ Models}$</summary>
+  <summary><strong>ADMET 프로퍼티 분석 모델 웹 플랫폼</strong><br>$\cal{\ \ Web\ Platform\ for\ ADMET\ Property\ Analysis\ Models}$</summary>
   <br>
   <!--<p>This project aims to improve the efficiency of drug development and maximize the safety and efficacy of pharmaceuticals. It predicts and analyzes the ADMET properties—Absorption, Distribution, Metabolism, Excretion, and Toxicity—of drug candidates and supports intuitive understanding of the results through data visualization tools.</p>-->
     
