@@ -50,10 +50,10 @@
   </div>
 </div>
 
-<br>
 <h4>🥬 Best Projects</h4>
 <div style="display: flex; flex-direction: column;">
   <a href="https://tiny-helicopter-4d0.notion.site/cdd9676f8af34393aab175904a01e58b" target="_blank"><img src="https://img.shields.io/badge/Portfolio%20(공사중)-f6cad9?style=for-the-badge" alt="Portfolio"/></a>
+  <br>
   <br>
   <details>
   <summary><strong>ADMET 프로퍼티 분석 모델 웹 플랫폼</strong><br>&ensp;&ensp;Web Platform for ADMET Property Analysis Models</summary>
