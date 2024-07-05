@@ -69,8 +69,6 @@
   <div style="display: flex; flex-direction: row;">
     <div>
     <a href="http://ssbio.cau.ac.kr/web/">Dokyun Lab 중앙대학교 생물정보학 연구실</a>
-    <p><strong>학부연구생 김소희 | BE, FE</strong></p></div>
-    <div><img width="200" alt="image" src="https://github.com/judy-kimsohui/judy-kimsohui/assets/83997634/b999cf94-a1ad-43d2-a413-4fd6a0565462"></div>
   </div>
   
   <div>
@@ -80,6 +78,9 @@
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/>
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   </div>
+
+  <p><strong>학부연구생 김소희 | BE, FE</strong></p></div>
+  <div><img width="200" alt="image" src="https://github.com/judy-kimsohui/judy-kimsohui/assets/83997634/b999cf94-a1ad-43d2-a413-4fd6a0565462"></div>
   
   ---
   </details>
