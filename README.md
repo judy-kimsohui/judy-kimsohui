@@ -86,7 +86,7 @@
 <h4>🥬 Attend. Dev-Studies</h4>
 <div style="display: flex; flex-direction: column;">
   <details>
-  <summary><strong>Web Dev</strong></summary>
+  <summary><strong>Algorithm</strong></summary>
   <br>
   <p>아아</p>
 
@@ -94,10 +94,18 @@
     
   </details>
   <details>
-  <summary><strong>Web Dev</strong></summary>
+  <summary><strong>Deep-dive blogging</strong></summary>
   <br>
   <p>아아</p>
   
+  ---
+    
+  </details>
+  <details>
+  <summary><strong>Hackathon</strong></summary>
+  <br>
+  <p>아아</p>
+
   ---
     
   </details>
