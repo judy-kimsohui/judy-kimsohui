@@ -82,6 +82,20 @@
   </details>
 </div>
 
+<br>
+<h4>🥬 Attend. Dev-Studies</h4>
+<div style="display: flex; flex-direction: column;">
+  <details>
+  <summary><strong>Web Dev</strong></summary>
+    <br>
+    아아
+  </details>
+  <details>
+  <summary><strong>Web Dev</strong></summary>
+    <br>
+    아아
+  </details>
+</div>
 
 <br>
 <h4>💙 Skills</h4>
