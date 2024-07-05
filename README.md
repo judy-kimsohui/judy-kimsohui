@@ -88,7 +88,7 @@
   <details>
   <summary><strong>Web Dev</strong></summary>
     <br>
-    아아
+    <p>아아</p>
 
     ---
     
@@ -96,7 +96,7 @@
   <details>
   <summary><strong>Web Dev</strong></summary>
     <br>
-    아아
+    <p>아아</p>
     
     ---
     
