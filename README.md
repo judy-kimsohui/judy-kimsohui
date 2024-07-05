@@ -127,7 +127,7 @@
 </div>
 
 <br>
-<p><h4>$\bf{\normalsize{\color{#b88dfc}💜\ Skills}}$</h4></p>
+<p><h4>$\bf{\normalsize{\color{#a065fc}💜\ Skills}}$</h4></p>
 <div>
 <img src="https://skillicons.dev/icons?i=spring,flask,nodejs,docker,aws,mysql,postgres,react,javascript,typescript,unreal,unity&theme=light" />
 <br>
@@ -135,7 +135,7 @@
 
 </div>
 
-<p><h4>$\bf{\normalsize{\color{#b88dfc}💜\ Activities}}$</h4></p>
+<p><h4>$\bf{\normalsize{\color{#a065fc}💜\ Activities}}$</h4></p>
 <div style="display: flex; justify-content: space-between;">
 <a href="https://github.com/judy-kimsohui">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junia3&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=c9a8ff&text_color=fff&title_color=c9a8ff&count_private=true&exclude_repo=Face-Transfer-Application" width="28.5%" alt="Top Languages"/>
