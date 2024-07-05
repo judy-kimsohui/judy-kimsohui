@@ -19,8 +19,8 @@
 <br>
 <h4>🩵 Education</h4>
   
-<p><strong>2017.03~2020.01</strong> 
- <a href="https://school.gyo6.net/kbs-english/main.do?sysId=kbs-english" style="text-decoration-line:none;">경북과학고등학교 Gyeongbuk Science High School 25th</a> (Pohang, Korea)</p>
+<strong>2017.03~2020.01</strong> 
+  [경북과학고등학교 Gyeongbuk Science High School 25th](https://school.gyo6.net/kbs-english/main.do?sysId=kbs-english) (Pohang, Korea)
 
 <strong>2020.03~2025.02</strong> 
  [중앙대학교 Chung-Ang University](https://neweng.cau.ac.kr/index.do) Double majored in [IE](https://ie.cau.ac.kr/_eng/), [Software](https://cse.cau.ac.kr/eng/main.php) (Seoul, Korea)
