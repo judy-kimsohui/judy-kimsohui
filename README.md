@@ -91,7 +91,7 @@
 
 
 </div>
-<br>
+
 <h4>💙 Activities</h4>
 <div style="display: flex; justify-content: space-between;">
 <a href="https://github.com/judy-kimsohui">
