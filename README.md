@@ -70,7 +70,8 @@
     <div>
     <a href="http://ssbio.cau.ac.kr/web/">Dokyun Lab 중앙대학교 생물정보학 연구실</a>
   </div>
-  
+  <br>
+    
   <div>
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
     <img src="https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
@@ -79,8 +80,9 @@
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   </div>
 
-  <p><strong>학부연구생 김소희 | BE, FE</strong></p></div>
+  
   <div><img width="200" alt="image" src="https://github.com/judy-kimsohui/judy-kimsohui/assets/83997634/b999cf94-a1ad-43d2-a413-4fd6a0565462"></div>
+  <p><strong>학부연구생 김소희 | BE, FE</strong></p></div>
   
   ---
   </details>
