@@ -87,18 +87,18 @@
 <div style="display: flex; flex-direction: column;">
   <details>
   <summary><strong>Web Dev</strong></summary>
-    <br>
-    <p>아아</p>
+  <br>
+  <p>아아</p>
 
-    ---
+  ---
     
   </details>
   <details>
   <summary><strong>Web Dev</strong></summary>
-    <br>
-    <p>아아</p>
-    
-    ---
+  <br>
+  <p>아아</p>
+  
+  ---
     
   </details>
 </div>
