@@ -53,7 +53,7 @@
 <br>
 <h4>🥬 Best Projects</h4>
 <div style="display: flex; flex-direction: column;">
-  <a href="https://tiny-helicopter-4d0.notion.site/cdd9676f8af34393aab175904a01e58b" target="_blank"><img src="https://img.shields.io/badge/Portfolio-f6cad9?style=for-the-badge" alt="Portfolio"/></a>
+  <a href="https://tiny-helicopter-4d0.notion.site/cdd9676f8af34393aab175904a01e58b" target="_blank"><img src="https://img.shields.io/badge/Portfolio%20(공사중)-f6cad9?style=for-the-badge" alt="Portfolio"/></a>
 
   <details>
   <summary><strong>Web Platform for ADMET Property Analysis Models</strong></summary>
