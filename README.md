@@ -50,7 +50,7 @@
   </div>
 </div>
 
-<h4>🥬 Best Projects</h4>
+<h3>🥬 Best Projects</h3>
 <div style="display: flex; flex-direction: column;">
   <a href="https://tiny-helicopter-4d0.notion.site/cdd9676f8af34393aab175904a01e58b" target="_blank"><img src="https://img.shields.io/badge/Portfolio%20(공사중)-f6cad9?style=for-the-badge" alt="Portfolio"/></a>
   <br>
@@ -98,7 +98,7 @@
 </div>
 
 <br>
-<h4>🥬 Attend. Dev-Studies</h4>
+<h3>🥬 Attend. Dev-Studies</h3>
 <div style="display: flex; flex-direction: column;">
   <details>
   <summary><strong>Algorithm</strong></summary>
