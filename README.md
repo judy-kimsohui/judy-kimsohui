@@ -67,6 +67,7 @@
   <img width="42%" alt="front2" src="https://github.com/judy-kimsohui/judy-kimsohui/assets/83997634/cd281f81-9a7c-456e-9088-6632d2171b2c">
   
   [Dokyun Lab 중앙대학교 생물정보학 연구실](http://ssbio.cau.ac.kr/web/)
+  <img width="200" alt="image" src="https://github.com/judy-kimsohui/judy-kimsohui/assets/83997634/b999cf94-a1ad-43d2-a413-4fd6a0565462">
   <p><strong>학부연구생 김소희 | BE, FE</strong></p>
   
   <div>
