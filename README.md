@@ -87,7 +87,6 @@
 <h4>💙 Skills</h4>
 <div>
 <img src="https://skillicons.dev/icons?i=spring,flask,nodejs,docker,aws,mysql,postgres&theme=light" />
-<br>
 <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react&theme=light" />
 <br>
 <img src="https://skillicons.dev/icons?i=unreal,unity&theme=light" />
