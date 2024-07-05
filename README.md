@@ -127,7 +127,7 @@
 </div>
 
 <br>
-<h4>💙 Skills</h4>
+<h4>💜 Skills</h4>
 <div>
 <img src="https://skillicons.dev/icons?i=spring,flask,nodejs,docker,aws,mysql,postgres,react,javascript,typescript,unreal,unity&theme=light" />
 <br>
@@ -135,7 +135,7 @@
 
 </div>
 
-<h4>💙 Activities</h4>
+<h4>💜 Activities</h4>
 <div style="display: flex; justify-content: space-between;">
 <a href="https://github.com/judy-kimsohui">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junia3&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width="28.5%" alt="Top Languages"/>
