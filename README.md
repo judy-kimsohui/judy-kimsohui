@@ -56,7 +56,7 @@
   <a href="https://tiny-helicopter-4d0.notion.site/cdd9676f8af34393aab175904a01e58b" target="_blank"><img src="https://img.shields.io/badge/Portfolio%20(공사중)-f6cad9?style=for-the-badge" alt="Portfolio"/></a>
 
   <details>
-  <summary><strong>ADMET 프로퍼티 분석 모델 웹 플랫폼</strong><br>Web Platform for ADMET Property Analysis Models</summary>
+  <summary><strong>ADMET 프로퍼티 분석 모델 웹 플랫폼</strong><br>&ensp;Web Platform for ADMET Property Analysis Models</summary>
   <br>
   <h4>ADMET 프로퍼티 분석 모델 웹 플랫폼</h4>
   <!--<p>This project aims to improve the efficiency of drug development and maximize the safety and efficacy of pharmaceuticals. It predicts and analyzes the ADMET properties—Absorption, Distribution, Metabolism, Excretion, and Toxicity—of drug candidates and supports intuitive understanding of the results through data visualization tools.</p>-->
