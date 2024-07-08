@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,50:E0C3FC,100:8EC5FC&height=100&section=header&text=&fontSize=0" width="100%"/>
 
 <div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=300&lines=Hello,+I'm+Judy+Kim+🩵)](https://git.io/typing-svg)
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Margarine&size=30&pause=1000&color=43A2F7&random=false&width=435&lines=Hello%2C+I'm+Judy+Kim+%F0%9F%A9%B5)](https://git.io/typing-svg)
 </div>
 
 <details>
