@@ -48,7 +48,7 @@
     <a href="https://github.com/judy-kimsohui/Blog"><img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/></a>
   </div>
 </div>
-<h4>Skills</h4>
+<h2>Skills</h2>
 <div>
 
 <div style="display: flex; align-items: flex-start;">
@@ -59,7 +59,7 @@
 </div>
 
 <h1> </h1>
-<h4>Best Projects</h4>
+<h2>Best Projects</h2>
 <div style="display: flex; flex-direction: column;">
   <a href="https://gigantic-cement-0b5.notion.site/Portfolio-7348d60bd91641b7be5c0ced48fa460f?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Portfolio-f6cad9?style=for-the-badge" alt="Portfolio"/></a>
   <br>
@@ -82,7 +82,7 @@
 <br>
 </div>
 </div>
-<h4>Activities</h4>
+<h2>Activities</h2>
 <div style="display: flex; justify-content: space-between;">
 <a href="https://github.com/judy-kimsohui">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junia3&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=c9a8ff&text_color=fff&title_color=c9a8ff&count_private=true&exclude_repo=Face-Transfer-Application" width="30%" alt="Top Languages"/>
