@@ -85,7 +85,6 @@
   <div><img width="200" alt="image" src="https://github.com/judy-kimsohui/judy-kimsohui/assets/83997634/b999cf94-a1ad-43d2-a413-4fd6a0565462"></div>
   <p><strong>학부연구생 김소희 | BE, FE</strong></p></div>
   
-  <h1> </h1>
   
 </div>
 
