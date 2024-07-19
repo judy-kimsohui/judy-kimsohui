@@ -58,7 +58,6 @@
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="55" height="55" />
 </div>
 
-<h1> </h1>
 <h2>Best Projects</h2>
 <div style="display: flex; flex-direction: column;">
   <a href="https://gigantic-cement-0b5.notion.site/Portfolio-7348d60bd91641b7be5c0ced48fa460f?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Portfolio-f6cad9?style=for-the-badge" alt="Portfolio"/></a>
