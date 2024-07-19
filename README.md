@@ -44,6 +44,7 @@
 
 <div>
   <div>
+    <a href="https://gigantic-cement-0b5.notion.site/Portfolio-7348d60bd91641b7be5c0ced48fa460f?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Portfolio-f6cad9?style=for-the-badge" alt="Portfolio"/></a>
     <a href="https://judy-kimsohui.github.io/Blog/" target="_blank"><img src="https://img.shields.io/badge/Welcome%20to%20Judy's%20Blog-f0e1fe?style=for-the-badge" alt="🩵 Welcome to Judy's Blog"/></a>
     <a href="https://github.com/judy-kimsohui/Blog"><img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/></a>
   </div>
@@ -60,9 +61,6 @@
 
 <h2>Best Projects</h2>
 <div style="display: flex; flex-direction: column;">
-  <a href="https://gigantic-cement-0b5.notion.site/Portfolio-7348d60bd91641b7be5c0ced48fa460f?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Portfolio-f6cad9?style=for-the-badge" alt="Portfolio"/></a>
-  <br>
-  <br>
   ML 모델 서빙 웹 플랫폼 개발 (신약개발을 위한 ADMET 예측 모델 제공)<br>
   <br>
   <img width="42%" alt="front1" src="https://github.com/judy-kimsohui/judy-kimsohui/assets/83997634/5e67c7f4-45c9-4ae8-a9cb-4f3fea00ca72">
