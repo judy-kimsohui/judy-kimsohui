@@ -70,7 +70,6 @@
 
   <div style="display: flex; flex-direction: row;">
     <div>
-    <a href="http://ssbio.cau.ac.kr/web/">Dokyun Lab 중앙대학교 생물정보학 연구실</a>
   </div>
 </div>
 </div>
