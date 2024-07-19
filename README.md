@@ -65,7 +65,7 @@
   <br>
   <br>
   <details>
-  <summary><strong>ADMET 프로퍼티 분석 모델 웹 플랫폼</strong><br>$\small{\it{\ \ Web\ Platform\ for\ ADMET\ Property\ Analysis\ Models}}$</summary>
+  <summary><strong>ML 모델 서빙 웹 플랫폼 개발 (신약개발을 위한 ADMET 예측 모델 제공)</strong><br>$\small{\it{\ \ Web\ Platform\ for\ ADMET\ Property\ Analysis\ Models}}$</summary>
   <br>
   <!--<p>This project aims to improve the efficiency of drug development and maximize the safety and efficacy of pharmaceuticals. It predicts and analyzes the ADMET properties—Absorption, Distribution, Metabolism, Excretion, and Toxicity—of drug candidates and supports intuitive understanding of the results through data visualization tools.</p>-->
     
@@ -95,51 +95,9 @@
   
   <h1> </h1>
   </details>
-  <details>
-  <summary><strong>Community</strong></summary>
-  <br>
-  <p>아아</p>
-
-  <h1> </h1>
-
-    
-  </details>
-  <details>
-  <summary><strong>Web-RTC</strong></summary>
-  <br>
-  <p>아아</p>
-
-  <h1> </h1>
-    
-  </details>
 </div>
 
 <br>
-<h4>🥬 Attend. Dev-Studies</h4>
-<div style="display: flex; flex-direction: column;">
-  <details>
-  <summary><strong>Algorithm</strong></summary>
-  <br>
-  <p>아아</p>
-
-  <h1> </h1>
-    
-  </details>
-  <details>
-  <summary><strong>Deep-dive blogging</strong></summary>
-  <br>
-  <p>아아</p>
-  
-  <h1> </h1>
-    
-  </details>
-  <details>
-  <summary><strong>Hackathon</strong></summary>
-  <br>
-  <p>아아</p>
-
-    
-  </details>
 </div>
 <h1> </h1>
 </div>
