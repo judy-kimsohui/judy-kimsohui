@@ -64,23 +64,15 @@
   <a href="https://gigantic-cement-0b5.notion.site/Portfolio-7348d60bd91641b7be5c0ced48fa460f?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Portfolio-f6cad9?style=for-the-badge" alt="Portfolio"/></a>
   <br>
   <br>
-  <details>
-  <summary><strong>ML 모델 서빙 웹 플랫폼 개발 (신약개발을 위한 ADMET 예측 모델 제공)</strong><br>$\small{\it{\ \ Web\ Platform\ for\ ADMET\ Property\ Analysis\ Models}}$</summary>
+  ML 모델 서빙 웹 플랫폼 개발 (신약개발을 위한 ADMET 예측 모델 제공)<br>
   <br>
-  <!--<p>This project aims to improve the efficiency of drug development and maximize the safety and efficacy of pharmaceuticals. It predicts and analyzes the ADMET properties—Absorption, Distribution, Metabolism, Excretion, and Toxicity—of drug candidates and supports intuitive understanding of the results through data visualization tools.</p>-->
-    
-  
-  <p>본 프로젝트는 신약 개발의 효율성을 높이고, 약물의 안전성과 유효성을 극대화하기 위한 목적으로 진행되었습니다.<br>약물의 흡수(Absorption), 분포(Distribution), 대사(Metabolism), 배설(Excretion), 그리고 독성(Toxicity) 특성(ADMET)을 예측하고 분석하고,<br>데이터 시각화 도구를 통해 결과를 직관적으로 파악할 수 있도록 지원하는 플랫폼을 개발했습니다.</p>
-
   <img width="42%" alt="front1" src="https://github.com/judy-kimsohui/judy-kimsohui/assets/83997634/5e67c7f4-45c9-4ae8-a9cb-4f3fea00ca72">
   <img width="42%" alt="front2" src="https://github.com/judy-kimsohui/judy-kimsohui/assets/83997634/cd281f81-9a7c-456e-9088-6632d2171b2c">
 
   <div style="display: flex; flex-direction: row;">
     <div>
     <a href="http://ssbio.cau.ac.kr/web/">Dokyun Lab 중앙대학교 생물정보학 연구실</a>
-  </div>
-  <br>
-    
+  </div><br>
   <div>
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
     <img src="https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
@@ -94,7 +86,7 @@
   <p><strong>학부연구생 김소희 | BE, FE</strong></p></div>
   
   <h1> </h1>
-  </details>
+  
 </div>
 
 <br>
