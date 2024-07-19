@@ -73,13 +73,7 @@
     <div>
     <a href="http://ssbio.cau.ac.kr/web/">Dokyun Lab 중앙대학교 생물정보학 연구실</a>
   </div><br>
-  <div>
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-    <img src="https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/>
-    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  </div>
+  
 
   <br>
   <div><img width="200" alt="image" src="https://github.com/judy-kimsohui/judy-kimsohui/assets/83997634/b999cf94-a1ad-43d2-a413-4fd6a0565462"></div>
