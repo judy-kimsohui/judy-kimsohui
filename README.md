@@ -9,7 +9,7 @@
 <summary><strong>About Me 🐰</strong></summary>
 
 <br>
-<h4>🩵 Interested in</h4>
+<h3>Interested in</h3>
 
 <strong>Web & Cloud</strong>
 <p>I dream of becoming a developer and am currently enhancing my technical skills through consistent development activities.<br>Please look forward to my future growth!</p>
@@ -17,7 +17,7 @@
 <br>다양한 프로젝트를 통해 개발 실력을 키웠고, Backend 직무로 취업을 희망하고 있습니다.</p>
 
 <br>
-<h4>🩵 Education</h4>
+<h3>Education</h3>
   
 <strong>2017.03~2020.01</strong> 
   [경북과학고등학교 Gyeongbuk Science High School 25th](https://school.gyo6.net/kbs-english/main.do?sysId=kbs-english) (Pohang, Korea)
@@ -29,7 +29,7 @@
  [Kakao Cloud School in JEJU 5th](https://rapa-kakaocloudschool-apply.goorm.io/) (Jeju Island, Korea)
 
 <br>
-<h4>🩵 저와 함께하고 싶으신가요?</h4>
+<h3>저와 함께하고 싶으신가요?</h3>
 <p>저는 팀 목표를 위해 협력하는 것을 중요시하며, 주어진 역할을 충실히 수행하는 사람입니다.</p>
 
 <li>새로운 기술과 프로젝트에 도전하는 것을 즐깁니다.</li>
@@ -71,14 +71,11 @@
   <div style="display: flex; flex-direction: row;">
     <div>
     <a href="http://ssbio.cau.ac.kr/web/">Dokyun Lab 중앙대학교 생물정보학 연구실</a>
-  </div><br>
-  
-
+  </div>
   <br>
   <div><img width="200" alt="image" src="https://github.com/judy-kimsohui/judy-kimsohui/assets/83997634/b999cf94-a1ad-43d2-a413-4fd6a0565462"></div>
   <p><strong>학부연구생 김소희 | BE, FE</strong></p></div>
 </div>
-<br>
 </div>
 </div>
 <h2>Activities</h2>
