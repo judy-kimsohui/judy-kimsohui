@@ -4,7 +4,7 @@
  
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Margarine&size=30&pause=1000&color=5a7eff&random=false&width=300&lines=Hello%2C+I'm+Judy+Kim)](https://git.io/typing-svg)
 </div>
-
+ 
 <details>
 <summary><strong>About Me 🐰</strong></summary> 
 
