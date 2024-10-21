@@ -26,7 +26,7 @@
  [중앙대학교 Chung-Ang University](https://neweng.cau.ac.kr/index.do) Double majored in [IE](https://ie.cau.ac.kr/_eng/), [Software](https://cse.cau.ac.kr/eng/main.php) (Seoul, Korea)
 
 <strong>2024.04~2024.10</strong>
- [Kakao Cloud School in JEJU 5th](https://rapa-kakaocloudschool-apply.goorm.io/) (Jeju Island, Korea)
+ [Kakao Cloud Engineering Tech Bootcamp in JEJU 1th](https://rapa-kakaocloudschool-apply.goorm.io/) (Jeju Island, Korea)
 
 <br>
 <h3>저와 함께하고 싶으신가요?</h3>
