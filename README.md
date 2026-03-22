@@ -2,7 +2,7 @@
  
 <div align="center"> 
  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Margarine&size=30&pause=1000&color=5a7eff&random=false&width=300&lines=Hello%2C+I'm+Judy+Kim)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Margarine&size=30&pause=1000&color=5a7eff&random=false&width=300&lines=열정+가득한+개발자%2C김소희입니다.)](https://git.io/typing-svg)
 </div>
  
 <details>
