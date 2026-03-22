@@ -3,7 +3,7 @@
 <div align="center"> 
 
  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Margarine&size=30&pause=1000&color=5a7eff&random=false&width=500&lines=I'm+Kim+Sohui%2C+a+passionate+developer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Margarine&size=30&pause=1000&color=5a7eff&random=false&width=500&lines=I'm+Sohui%2C+a+passionate+developer)](https://git.io/typing-svg)
 </div>
  
 <details>
