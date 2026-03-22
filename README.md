@@ -57,7 +57,10 @@
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="55" height="55" />
   <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="55" height="55" />
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="55" height="55" />
+  <img src="https://skillicons.dev/icons?i=unity&theme=light" />
 </div>
+
+
 
 <h2>Best Projects</h2>
 <div style="display: flex; flex-direction: column;">
