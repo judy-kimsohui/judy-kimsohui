@@ -5,7 +5,9 @@
  
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Margarine&size=30&pause=1000&color=5a7eff&random=false&width=450&lines=I'm+Sohui%2C+a+passionate+developer)](https://git.io/typing-svg)
 </div>
- 
+
+
+<!--
 <details>
 <summary><strong>About Me 🐰</strong></summary> 
 
@@ -42,13 +44,25 @@
 <br>
 
 </details>
+-->
+
 
 <div>
   <div>
+
+   <a href="https://github.com/user-attachments/files/26174911/Portfolio_KimSohui.pdf" target="_blank"><img src="https://img.shields.io/badge/Portfolio%20(PDF)-839eff?style=for-the-badge" alt="Portfolio"/></a>
+   <!--
     <a href="https://judy-kimsohui.kro.kr/resume" target="_blank"><img src="https://img.shields.io/badge/Resume%20&%20Portfolio-839eff?style=for-the-badge" alt="Portfolio"/></a>
-    <a href="https://judy-kimsohui.kro.kr/" target="_blank"><img src="https://img.shields.io/badge/Welcome%20to%20Judy's%20Blog-839eff?style=for-the-badge" alt="🩵 Welcome to Judy's Blog"/></a>
+
+   
+   <a href="https://judy-kimsohui.kro.kr/resume" target="_blank"><img src="https://img.shields.io/badge/Resume%20&%20Portfolio-839eff?style=for-the-badge" alt="Portfolio"/></a>
+   <a href="https://judy-kimsohui.kro.kr/" target="_blank"><img src="https://img.shields.io/badge/Welcome%20to%20Judy's%20Blog-839eff?style=for-the-badge" alt="🩵 Welcome to Judy's Blog"/></a>
+    -->
   </div>
 </div>
+
+
+
 <h2>Skills</h2>
 <div>
 
@@ -62,7 +76,7 @@
 </div>
 
 
-
+<!--
 <h2>Best Projects</h2>
 <div style="display: flex; flex-direction: column;">
   ML 모델 서빙 웹 플랫폼 개발 (신약개발을 위한 ADMET 예측 모델 제공)<br>
@@ -76,6 +90,8 @@
 </div>
 </div>
 </div>
+-->
+
 <h2>Activities</h2>
 <div style="display: flex; justify-content: space-between;">
 <a href="https://github.com/judy-kimsohui">
