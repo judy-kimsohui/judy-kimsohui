@@ -75,9 +75,8 @@
  <img src="https://skillicons.dev/icons?i=unreal&theme=light" />
 </div>
 
-
 <!--
-<h2>Best Projects</h2>
+<h2>Project Demo</h2>
 <div style="display: flex; flex-direction: column;">
   ML 모델 서빙 웹 플랫폼 개발 (신약개발을 위한 ADMET 예측 모델 제공)<br>
   <br>
@@ -85,8 +84,7 @@
   <img width="42%" alt="front2" src="https://github.com/judy-kimsohui/judy-kimsohui/assets/83997634/cd281f81-9a7c-456e-9088-6632d2171b2c">
 
   <div style="display: flex; flex-direction: row;">
-    <div>
-  </div>
+  
 </div>
 </div>
 </div>
