@@ -6,7 +6,6 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Margarine&size=30&pause=1000&color=5a7eff&random=false&width=450&lines=I'm+Sohui%2C+a+passionate+developer)](https://git.io/typing-svg)
 </div>
 
-
 <!--
 <details>
 <summary><strong>About Me 🐰</strong></summary> 
@@ -50,7 +49,7 @@
 <div>
   <div>
 
-   <a href="https://github.com/user-attachments/files/26174911/Portfolio_KimSohui.pdf" target="_blank"><img src="https://img.shields.io/badge/Portfolio%20(PDF)-839eff?style=for-the-badge" alt="Portfolio"/></a>
+   <a href="https://github.com/user-attachments/files/26175338/Portfolio_KimSohui.pdf" target="_blank"><img src="https://img.shields.io/badge/Portfolio%20(PDF)-839eff?style=for-the-badge" alt="Portfolio"/></a>
    <!--
     <a href="https://judy-kimsohui.kro.kr/resume" target="_blank"><img src="https://img.shields.io/badge/Resume%20&%20Portfolio-839eff?style=for-the-badge" alt="Portfolio"/></a>
 
