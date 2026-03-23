@@ -55,8 +55,9 @@
 
    
    <a href="https://judy-kimsohui.kro.kr/resume" target="_blank"><img src="https://img.shields.io/badge/Resume%20&%20Portfolio-839eff?style=for-the-badge" alt="Portfolio"/></a>
-   <a href="https://judy-kimsohui.kro.kr/" target="_blank"><img src="https://img.shields.io/badge/Welcome%20to%20Judy's%20Blog-839eff?style=for-the-badge" alt="🩵 Welcome to Judy's Blog"/></a>
-    -->
+   -->
+   <a href="https://judy-kimsohui.kro.kr/" target="_blank"><img src="https://img.shields.io/badge/Welcome%20to%20Judy's%20Blog-839eff?style=for-the-badge" alt="🩵 Welcome to Judy's Blog"/></a> ◀︎ Notion changed its API format 🥹 I’ll fix it asap!! 🛠️
+    
   </div>
 </div>
 
