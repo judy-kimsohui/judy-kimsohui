@@ -6,6 +6,10 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Margarine&size=30&pause=1000&color=5a7eff&random=false&width=450&lines=I'm+Sohui%2C+a+passionate+developer)](https://git.io/typing-svg)
 </div>
 
+<!-- 이미지 -->
+<!-- <img width="358" height="174" alt="image" src="https://github.com/user-attachments/assets/ca797bc0-aa57-487a-a8a4-3909be399670" /> -->
+
+
 <!--
 <details>
 <summary><strong>About Me 🐰</strong></summary> 
