@@ -72,15 +72,16 @@
 <h2>Skills</h2>
 <div>
 
-<div style="display: flex; align-items: flex-start;">
+<p>
   <img src="https://skillicons.dev/icons?i=react,spring,flask,express,nodejs,mysql,postgres&theme=light" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="55" height="55" />
-  <img src="https://skillicons.dev/icons?i=unity&theme=light" />
- <img src="https://skillicons.dev/icons?i=unreal&theme=light" />
-</div>
 
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" height="50"/>
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" height="50"/>
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" height="50"/>
+
+  <img src="https://skillicons.dev/icons?i=unity&theme=light" />
+  <img src="https://skillicons.dev/icons?i=unreal&theme=light" />
+</p>
 <!--
 <h2>Project Demo</h2>
 <div style="display: flex; flex-direction: column;">
@@ -98,12 +99,12 @@
 
 <!-- <h2>Activities</h2>
 <div style="display: flex; justify-content: space-between;">
-<a href="https://github.com/judy-kimsohui">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junia3&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=c9a8ff&text_color=fff&title_color=c9a8ff&count_private=true&exclude_repo=Face-Transfer-Application" width="30%" alt="Top Languages"/>
-</a> 
-<a href="https://github.com/judy-kimsohui">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=judy-kimsohui&theme=react-dark&bg_color=20232a&hide_border=true&line=c9a8ff&color=c9a8ff" width="53%" alt="Activity Graph"/>
-</a>
+  <a href="https://github.com/judy-kimsohui">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junia3&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=c9a8ff&text_color=fff&title_color=c9a8ff&count_private=true&exclude_repo=Face-Transfer-Application" width="30%" alt="Top Languages"/>
+  </a> 
+  <a href="https://github.com/judy-kimsohui">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=judy-kimsohui&theme=react-dark&bg_color=20232a&hide_border=true&line=c9a8ff&color=c9a8ff" width="53%" alt="Activity Graph"/>
+  </a>
 </div> -->
 
 <!--<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,50:E0C3FC,100:8EC5FC&height=100&section=footer&text=&fontSize=0" width="100%"/>-->
