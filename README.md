@@ -76,7 +76,7 @@
   <img src="https://skillicons.dev/icons?i=react,spring,flask,express,nodejs,mysql,postgres&theme=light" />
 
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" height="50"/>
-  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" height="50"/>
+  <!--<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" height="50"/>-->
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" height="50"/>
 
   <img src="https://skillicons.dev/icons?i=unity&theme=light" />
